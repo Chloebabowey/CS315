@@ -1,0 +1,11 @@
+Pulp Fiction, Quintin Tarantino, 1994, 2
+Forest Gump, Robert Zemekis, 1994, 3
+Time Bandits, Terry Gilliam, 1981, 0
+Raiders of the Lost Ark, Steven Speilberg, 1981, 5
+The Big Lebowski, Coen Brothers, 1998, 1
+Short Circuit, John Badham, 1986, 2
+War Games: The Dead Code, 2008, 5
+Hackers, Iain Softley, 1995, 2
+The Commitments, Alan Parker, 1991, 1
+Blazing Saddles, Mel Brooks, 1974, 2
+The Fifth Element, Luc Besson, 1997, 0
